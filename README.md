@@ -7,8 +7,6 @@ Move these folders inside the Mask-RCNN folder
 
 Segmentation Model :- https://drive.google.com/file/d/1b-GjqWGGmFSU7gZdQiRFIGQXHwpPuJcC/view?usp=sharing
 
-Voice Recognition model(Indian) :- https://alphacephei.com/vosk/models/vosk-model-en-in-0.4.zip
-
 Data Set :- https://drive.google.com/file/d/1ULlna-rv6yuvuefpigiEyHVZJaBMzDOw/view?usp=sharing
 
 To run the SIETS system - 
