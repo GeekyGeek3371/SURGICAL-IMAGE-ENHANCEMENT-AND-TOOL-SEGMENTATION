@@ -11,8 +11,6 @@ Voice Recognition model(Indian) :- https://alphacephei.com/vosk/models/vosk-mode
 
 Data Set :- https://drive.google.com/file/d/1ULlna-rv6yuvuefpigiEyHVZJaBMzDOw/view?usp=sharing
 
-To run the UI - Open "index.html" in SIETS folder in browser
-
 To run the SIETS system - 
 run test.py
 
