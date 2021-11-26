@@ -15,3 +15,4 @@ def Airlight(HazeImg, AirlightMethod, windowSize):
             minImg = cv2.erode(HazeImg, kernel)
             A.append(int(minImg.max()))
     return(A)
+#for airlight
