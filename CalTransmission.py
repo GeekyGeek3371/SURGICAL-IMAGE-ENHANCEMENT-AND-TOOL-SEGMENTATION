@@ -1,5 +1,5 @@
 import numpy as np
-import cv2
+import cv2 
 
 def CalTransmission(HazeImg, Transmission, regularize_lambda, sigma):
     rows, cols = Transmission.shape
