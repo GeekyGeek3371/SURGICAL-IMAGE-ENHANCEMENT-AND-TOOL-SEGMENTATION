@@ -1,7 +1,4 @@
-"""
-Created on Thursday June 11 16:38:42 2020
-@author: Utkarsh Deshmukh
-"""
+
 import cv2
 import numpy as np
 
