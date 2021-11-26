@@ -1,3 +1,4 @@
+#boundary configs
 import cv2
 import numpy as np
 def BoundCon(HazeImg, A, C0, C1, windowSze):
